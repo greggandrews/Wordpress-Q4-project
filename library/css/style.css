@@ -2116,3 +2116,11 @@ be set to display none.
   .respond-form,
   nav {
     display: none; } }
+
+
+
+    img.vce-single-image {
+        max-width: 300px;
+        margin: 0 auto;
+        width: 100%;
+    }
